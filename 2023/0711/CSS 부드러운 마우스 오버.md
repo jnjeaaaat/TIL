@@ -20,7 +20,7 @@
   ...
   /*개인 설정*/
   ...
-  transition: all 0.4s; /* transition으로 부드러운 효과 /*
+  transition: all 0.4s; /* transition으로 부드러운 효과 */
 }
 ```
 </br>
@@ -35,7 +35,7 @@
 ```
 
 ``` css
-// hover는 마우스를 올렸을 때 변화
+/* hover는 마우스를 올렸을 때 변화 */
 .mainButton:hover {
   background: white;
   color: pink;
