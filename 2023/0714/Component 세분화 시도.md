@@ -1,6 +1,6 @@
 # 230714
 ## simple-diary 화면 구성
-### Component 세분화 했을때 오류 해결
+### Component 세분화
 </br>
 
 > 기존 Main.jsx 코드
